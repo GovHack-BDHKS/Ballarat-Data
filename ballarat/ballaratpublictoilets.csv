@@ -1,0 +1,57 @@
+Council_ID,Location,Site,Type,Accessible,Ambulant,DDA_Access,DoorsAuto,SocialUse,Lat,Long
+00036362,"Public Toilets (Rear of 39 Sturt St), Albert St, Ballarat Central",Albert Street Toilets,B-Public Toilet,1,0,Yes,No,Public Facilities,-37.5627065325966,143.859109040761
+00036364,"Public Toilets, 38 Armstrong St Nth, Ballarat Central",Armstrong Street Toilets,B-Public Toilet,Not Applicable,Not Applicable,Not Applicable,No,Public Facilities,-37.5601488958001,143.856800978845
+00036481,"Public Toilets, Curtis St (Big W), Ballarat Central",Big W Toilets,B-Public Toilet,Not Applicable,Not Applicable,Not Applicable,No,Public Facilities,-37.5612409826614,143.861319547411
+00036520,"Public Toilets, Drummond St Nth, Ballarat Central",Drummond Street North Toilets,B-Public Toilet,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Public Facilities,-37.560299734441,143.847756662923
+00036545,"Public Toilets, Cnr Little Bridge St & Peel St Sth, Ballarat Central",Little Bridge Street Toilets,B-Public Toilet,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Public Facilities,-37.5633588020067,143.863071082074
+00036607,"Public Toilets, 181-183 Albert St, Sebastopol",Sebastopol Offices Public Toilets,B-Public Toilet,1,Not Applicable,Yes,No,Public Facilities,-37.5970171098743,143.841401221689
+00036635,"Public Toilets, Laidlaw St, Learmonth",Alexander Park,B-Public Toilet,1,Not Applicable,Yes,No,Public Facilities,-37.4227838785256,143.712287620219
+00036644,"Public Toilets, 89 Cuthberts Rd, Alfredton",Alfredton Recreation Reserve,B-Public Toilet,Not Applicable,Not Applicable,No,No,Public Facilities,-37.5550775435766,143.800591418073
+00036663,"Toilets, Cnr Creswick Rd & Howitt St, Wendouree",Ballarat Showgrounds,B-Public Toilet,1,Not Applicable,Yes,No,Commercial,-37.5415188489038,143.848204812836
+00225876,"Toilets (adj. White Ave), Cnr Creswick Rd & Howitt St, Wendouree",Ballarat Showgrounds,B-Public Toilet,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Commercial,-37.5415188489038,143.848204812836
+00036686,"Public Toilets, 373 Humffray St Nth, Brown Hill",Brown Hill Reserve,B-Public Toilet,Not Applicable,Not Applicable,Yes,No,Public Facilities,-37.552079930808,143.895975883165
+00036494,"Public Toilets, Scott St, Buninyong",Buninyong Botanic Gardens,B-Public Toilet,1,1,Yes,No,Public Facilities,-37.653038297605,143.886916849269
+00036722,"Public Toilets (adj Sports Club), 238 Dowling St, Wendouree",Charles Edward Brown Reserve,B-Public Toilet,Not Applicable,Not Applicable,No,No,Public Facilities,-37.5368480968969,143.844003313865
+00036723,"Public Toilets Male (adj Dowling St), 238 Dowling St, Wendouree",Charles Edward Brown Reserve,B-Public Toilet,Not Applicable,3,No,No,Public Facilities,-37.5373938270828,143.841521590416
+00036725,"Public Toilets Female (adj Dowling St), 238 Dowling St, Wendouree",Charles Edward Brown Reserve,B-Public Toilet,Not Applicable,Not Applicable,No,No,Public Facilities,-37.5372297847901,143.841543632302
+00036750,"Public Toilets / Shelter, 502 Warrenheip St, Buninyong",De Soza Park,B-Public Toilet,1,Not Applicable,Yes,No,Public Facilities,-37.6491005583901,143.883941594342
+00237362,"Public Toilet (2015), Doug Dean Reserve, Greenhalghs Road, Delacombe",Doug Dean Reserve,B-Public Toilet,1,Not Applicable,Yes,Yes,Public Facilities,1.#QNAN,1.#QNAN
+00036770,"Public Toilets Female (adj Ebden St), 211 Peel St Nth, Ballarat East",Eastern Oval,B-Public Toilet,Not Applicable,Not Applicable,No,No,Public Facilities,-37.5583357287653,143.862266366189
+00036771,"Public Toilets Female (adj Peel St), 211 Peel St Nth, Ballarat East",Eastern Oval,B-Public Toilet,Not Applicable,Not Applicable,No,No,Public Facilities,-37.5573537846158,143.864685513864
+00036772,"Public Toilets Male (adj Creek), 211 Peel St Nth, Ballarat East",Eastern Oval,B-Public Toilet,Not Applicable,Not Applicable,No,No,Public Facilities,-37.5577340528002,143.862131708353
+00038031,"Public Toilets Male (Adj Peel St Nth), 211 Peel St Nth, Ballarat East",Eastern Oval,B-Public Toilet,Not Applicable,Not Applicable,No,No,Public Facilities,-37.5574136596935,143.864660928755
+00036782,"Public Toilets, 525 Eureka St, Eureka",Eureka Stockade,B-Public Toilet,2,Not Applicable,Yes,Yes,Public Facilities,-37.5647113585289,143.88596390056
+00036808,"Public Toilet, East Shore, Lake Burrumbeet, Burrumbeet",Lake Burrumbeet Reserve,B-Public Toilet,1,No,No,No,Public Facilities,-37.4914647883285,143.6695577071
+00036815,"Public Toilets, 233 Larter St, Canadian",Lake Esmond Botanical Park,B-Public Toilet,2,Not Applicable,Yes,No,Public Facilities,-37.5751449737246,143.874770421893
+00036819,"Public Toilets (opp Speed Boat Club), Foreshore Road, Learmonth",Lake Learmonth,B-Public Toilet,Not Applicable,Not Applicable,No,No,Public Facilities,-37.4338799212891,143.725194906154
+00036820,"Public Toilets (adj Yacht Club), Foreshore Road, Learmonth",Lake Learmonth,B-Public Toilet,1,No,Yes,No,Public Facilities,-37.4358203068333,143.724848510865
+00036854,"Ballarat Grammer Shed Public Toilets, Wendouree Pde, Lake Wendouree",Lake Wendouree Reserve,B-Public Toilet,1,Not Applicable,Yes,No,Public Facilities,-37.5438627258709,143.831220739939
+00036855,"Canoe Club Public Toilets, Wendouree Pde, Lake Wendouree",Lake Wendouree Reserve,B-Public Toilet,1,Not Applicable,Yes,No,Public Facilities,-37.5532618441834,143.843191718198
+00036856,"Underground Public Toilets, Wendouree Pde, Lake Wendouree",Lake Wendouree Reserve,B-Public Toilet,Not Applicable,Not Applicable,No,No,Public Facilities,-37.5561774396644,143.824711685788
+00093019,"Ballarat Yacht Club Public Toilet, Wendouree Pde, Wendouree",Lake Wendouree Reserve,B-Public Toilet,3,1,Yes,No,Public Facilities,-37.5555450559722,143.838683586903
+00036878,"Public Toilets, 10B Barkly St, Ballarat East",Len T Frazer Reserve,B-Public Toilet,2,Not Applicable,No,No,Public Facilities,-37.5659662299459,143.867336216419
+00036890,"Public Toilets, York St, Golden Point",Llanberris Athletics Reserve,B-Public Toilet,No,No,No,No,Public Facilities,-37.5695078182289,143.865380588142
+00036891,"Public Toilets Disabled, York St, Golden Point",Llanberris Athletics Reserve,B-Public Toilet,Not Applicable,Not Applicable,Yes,No,Public Facilities,-37.5695563921373,143.865391038314
+00137572,"No 2 Change Rooms Public Toilets, Burnett St, Sebastopol",Marty Busch Reserve,B-Public Toilet,1,Not Applicable,Yes,No,Public Facilities,-37.6035411253184,143.844745293213
+00036912,"Public Toilets (adj Main Gates), Burnett St, Sebastopol",Marty Busch Reserve,B-Public Toilet,1,Not Applicable,Yes,No,Public Facilities,-37.6032350701884,143.842168436612
+00036914,"Public Toilets (adj Gun Club), Burnett St, Sebastopol",Marty Busch Reserve,B-Public Toilet,2,Not Applicable,No,No,Public Facilities,-37.603210548855,143.846662190798
+00228173,"Toilet / Plant Room, Midlands Res. Water Play Space, Doveton Street North, Ballarat North, ",Midlands Reserve,B-Public Toilet,1,Not Applicable,Yes,Not Applicable,Not Applicable,1.#QNAN,1.#QNAN
+00036922,"Public Toilets, 19 Albert St, Miners Rest",Miners Rest Reserve,B-Public Toilet,Not Applicable,Not Applicable,Yes,No,Public Facilities,-37.4806413940983,143.796942830166
+00137573,"Public Toilets (Ballarat Dog Club), Cnr Pleasant St Sth & Rubicon St, Redan",Morshead Park,B-Public Toilet,1,Not Applicable,Yes,No,Sport & Recreation,-37.5806140354953,143.833243052342
+00036934,"Public Toilets, Mt Buninyong Reserve, Buninyong",Mount Buninyong,B-Public Toilet,1,Not Applicable,Yes,No,Public Facilities,-37.6534546350368,143.926599850867
+00036937,"Public Toilets, 900 Barkly St, Mt Pleasant",Mount Pleasant Reserve,B-Public Toilet,No,No,No,No,Public Facilities,-37.5770958051032,143.850595899093
+00036943,"North Gardens Reserve, Public Toilets Male, 411 Wendouree Pde, Lake Wendouree",North Gardens Reserve,B-Public Toilet,Not Applicable,Not Applicable,No,No,Public Facilities,-37.5458384091625,143.822842503427
+00036944,"North Gardens Reserve, Public Toilets Female, 411 Wendouree Pde, Lake Wendouree",North Gardens Reserve,B-Public Toilet,Not Applicable,Not Applicable,No,No,Public Facilities,-37.5459060860306,143.822694816998
+00036946,"North Gardens Reserve, Public Toilets Disabled, 411 Wendouree Pde, Lake Wendouree",North Gardens Reserve,B-Public Toilet,2,Not Applicable,No,No,Public Facilities,-37.5458261284569,143.822632823384
+00205321,"North Gardens Reserve, Nth. Gardens Toilets Common Infrustructure, 411 Wendouree Pde, Lake Wendouree",North Gardens Reserve,B-Public Toilet,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Public Facilities,-37.5458642278571,143.822757439515
+00036979,"Public Toilets, Stawell St Nth, Brown Hill",Russell Square,B-Public Toilet,1,Not Applicable,Yes,No,Public Facilities,-37.5559731430113,143.884257091657
+00036984,"Toilets, Midland Hwy, Scotsburn",Scotsburn Hall Reserve,B-Public Toilet,Not Applicable,Not Applicable,No,No,Community,-37.6702736510472,143.928105109773
+00036995,"South Gardens Reserve, Public Toilets, 401 Wendouree Pde, Lake Wendouree",South Gardens Reserve,B-Public Toilet,2,Not Applicable,Yes,No,Public Facilities,-37.5510250852444,143.821811901346
+00036532,"Public Toilets, off Magpie St (West side Sovereign Hill), Golden Point",Golden Point Lookout,B-Public Toilet,Not Applicable,1,Not Applicable,No,Public Facilities,-37.5782018576985,143.864638808664
+00037020,"Public Toilets, Sturt St, Newington",Victoria Park,B-Public Toilet,1,Not Applicable,Yes,No,Public Facilities,-37.5574366497121,143.82207896438
+00150685,"Public Toilets (2012), 253 Vickers St, Sebastopol",Victory Park,B-Public Toilet,1,No,No,No,Public Facilities,-37.5933472581453,143.838869274768
+00037041,"Public Toilets, Cnr Gillies St Nth & Norman St, Wendouree West",Weeramar Park,B-Public Toilet,2,Not Applicable,Yes,No,Public Facilities,-37.5317120364784,143.822654419522
+00037049,"Public Toilets, Cnr Pleasant St Sth & Eyre St, Ballarat Central",Western Oval Reserve,B-Public Toilet,Not Applicable,Not Applicable,Not Applicable,No,Public Facilities,-37.5644829587706,143.838623016825
+00037053,"Public Toilets, Hickman St, Ballarat Central",White Flat Oval Reserve,B-Public Toilet,Not Applicable,Not Applicable,Not Applicable,No,Public Facilities,-37.5679069530557,143.856410015702
+00036535,"Public Toilets, Car park of Howitt St Shopping Centre, 1221T Howitt Street, Wendouree",Howitt Street Shopping Centre,B-Public Toilet,1,Not Applicable,Yes,No,Public Facilities,1.#QNAN,1.#QNAN
+00250584,"Public Toilet (Exeloo), Alfred Walk, Ballarat",Alfred Walk,B-Public Toilet,1,1,Yes,Yes,Public Facilities,1.#QNAN,1.#QNAN
